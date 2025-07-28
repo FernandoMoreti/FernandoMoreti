@@ -34,10 +34,19 @@ Prazer! Me chamo **Fernando Moreti Bolela e Silva**, mas todo mundo me chama de 
 
 ---
 
-## 🏆 Meus troféus no GitHub
+<p align="center">
+  <a href="https://github.com/FernandoMoreti">
+    <img src="https://github-contributions.vercel.app/api/v1/FernandoMoreti?format=png&mode=dark&scale=3" alt="3D contributions" />
+  </a>
+</p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=FernandoMoreti&theme=tokyonight&no-frame=true&column=4)](https://github.com/FernandoMoreti)
+<p align="center">
+  <img src="https://ghchart.rshah.org/3d/FernandoMoreti" alt="Gráfico 3D de Contribuições do GitHub" />
+</p>
 
+<p align="center">
+  <img src="https://link-da-sua-imagem.png" alt="GitHub Skyline 3D" width="700" />
+</p>
 
 ---
 
