@@ -34,9 +34,9 @@ Prazer! Me chamo **Fernando Moreti Bolela e Silva**, mas todo mundo me chama de 
 
 ---
 
-## 📈 Atividade recente
+## 🏆 Meus troféus no GitHub
 
-[![Moreti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoMoreti&theme=tokyo-night&hide_border=true)](https://github.com/FernandoMoreti)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=FernandoMoreti&theme=tokyonight&no-frame=true&column=4)](https://github.com/FernandoMoreti)
 
 
 ---
