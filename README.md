@@ -34,11 +34,10 @@ Prazer! Me chamo **Fernando Moreti Bolela e Silva**, mas todo mundo me chama de 
 
 ---
 
-<p align="center">
-  <a href="https://github.com/FernandoMoreti">
-    <img src="https://github-contributions.vercel.app/api/v1/FernandoMoreti?format=png&mode=dark&scale=3" alt="3D contributions" />
-  </a>
-</p>
+## 📈 Atividade recente
+
+[![Moreti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoMoreti&theme=tokyo-night&hide_border=true)](https://github.com/FernandoMoreti)
+
 
 ---
 
