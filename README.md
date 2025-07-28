@@ -1,13 +1,13 @@
-<h1 align="center">Fala aí, eu sou o Moreti 👋</h1>
+<h1 align="center">Fala aí, eu sou o Moreti </h1>
 
 <p align="center">
   Estudante de Sistemas de Informação | Futuro Dev Full Stack 🚀<br/>
-  Apaixonado por tecnologia, boas ideias e código que funciona 😄
+  Apaixonado por tecnologia, boas ideias e código que funciona
 </p>
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
 Prazer! Me chamo **Fernando Moreti Bolela e Silva**, mas todo mundo me chama de **Moreti** mesmo.
 
@@ -34,13 +34,10 @@ Prazer! Me chamo **Fernando Moreti Bolela e Silva**, mas todo mundo me chama de 
 
 ---
 
-## 🧱 Meu histórico de contribuições em 3D
+## 📈 Atividade recente
 
-<p align="center">
-  <a href="https://github.com/FernandoMoreti">
-    <img src="https://github-contributions-api.deno.dev/FernandoMoreti.svg" />
-  </a>
-</p>
+[![Moreti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoMoreti&theme=tokyo-night&hide_border=true)](https://github.com/FernandoMoreti)
+
 
 ---
 
