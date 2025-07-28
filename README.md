@@ -40,14 +40,6 @@ Prazer! Me chamo **Fernando Moreti Bolela e Silva**, mas todo mundo me chama de 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/3d/FernandoMoreti" alt="Gráfico 3D de Contribuições do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://link-da-sua-imagem.png" alt="GitHub Skyline 3D" width="700" />
-</p>
-
 ---
 
 ## 📊 Um pouco dos meus passos por aqui
